@@ -7,82 +7,9 @@
 #  education2:
 #  education3:
 #  education4:
-- name: Jane C. Wong
-  photo: jane.jpg
-  info: MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
 - name: Paul K. Yu
   photo: paul-yu.jpg
   info: MS Math
   email: a@b.c
   number_educ: 0
   education1:
-
-- name: Jose Miguel Leyesa
-  photo: proteins.png
-  info: MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
-- name: Josef Paolo Manlapaz
-  photo: proteins.png
-  info: MS Computer Science
-  email: a@b.c
-  email: a@b.c
-  number_educ: 0
-  education1:
-
-- name: Mark Edward M. Gonzales
-  photo: mark.jpg
-  info: BS-MS Honors Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
-- name: Kim W. Lee, Jra.
-  photo: kim.jpg
-  info: BS-MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
-- name: Daphne J. Go
-  photo: daphne.jpg
-  info: BS-MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
-
-- name: Alfonso M. Cruz
-  photo: miguel.jpg
-  info: BS-MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
-- name: Luis G. Roxas
-  photo: luis.jpg
-  info: BS-MS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
-- name: Jiaan Santos
-  photo: jiaan.jpg
-  info: MS Biology 
-  email: a@b.c
-  number_educ: 0
-  education1:
-
-- name: Therese Ureta
-  photo: proteins.png
-  info: BS Computer Science
-  email: a@b.c
-  number_educ: 0
-  education1:
-
