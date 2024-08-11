@@ -53,10 +53,10 @@ See some of our [projects](projects), [publications](publications), and [softwar
 ### Institutional Partners
 
 -   Department of Mathematics and Statistics, De La Salle University
--   Department of Mathetics, Batangas State University
+-   Department of Mathematics, Batangas State University
 -   Institute of Mathematics, University of the Philippines Diliman
 -   Institute of Mathematical and Physical Sciences, University of the Philippines Los Baños
--   Systems and Computational Biology Unit, CENSER, De La Salle University
+-   [Systems and Computational Biology](https://dlsu-scomb.github.io/){:target="\_blank"}, CENSER, De La Salle University
 
 
 <br>
