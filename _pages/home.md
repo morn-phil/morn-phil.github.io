@@ -34,7 +34,7 @@ See some of our [projects](projects), [publications](publications), and [softwar
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CRNT-ladies.png" alt="The Father and Ladies of MoRPH" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/morph-ksmb-smb.png" alt="2024 KSMB_SMB" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/morph-ksmb-smb.jpg" alt="2024 KSMB_SMB" />
         </div>
     </div>
 
