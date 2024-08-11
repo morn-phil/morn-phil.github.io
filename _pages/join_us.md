@@ -17,8 +17,6 @@ We're looking for energetic and driven students who are:
 
 Please go over our [projects](/projects), our [publications](/publications), and our [GitHub repositories](http://github.com/morph-2013){:target="\_blank"}. 
 
-### This [guide](https://bioinfodlsu.com/bioinfodlsu-survival-guide/intro.html){:target="\_blank"} for members and applicants might also be helpful in getting to know our lab.
-
 If our lab interests you, please reach out to us at: mathreacnetphil --atmark-- gmail.com
 
 ### Frequently Asked Questions
