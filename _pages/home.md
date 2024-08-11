@@ -1,20 +1,18 @@
 ---
-title: "Bioinfo Lab - Home"
+title: "MoRPH - Home"
 layout: homelay
-excerpt: "Bioinfo Lab at DLSU Manila"
+excerpt: "Mathematics of Reaction Networks Philippines"
 sitemap: false
 permalink: /
 ---
 
-### Our Focus
+### About MoRPH
 
-Modern-day biology is a data-driven field, thanks largely to the advances in high-throughput sequencing technologies.
+The **Mathematics of Reaction Networks Philippines (MoRPH)** brings together faculty members and students interested in .
 
-The **Bioinformatics Lab at De La Salle University** brings together faculty members and students interested in deploying the arsenal of computer science and computer engineering to solve problems in computational biology.
 
-We work on algorithms and software for high-throughput sequencing data analysis, bioinformatics for diseases and epidemics, computer architecture for bioinformatics algorithms, and similar topics that bridge computer science and biology.
 
-See some of our [projects](projects), [publications](publications), and [software](http://github.com/bioinfodlsu){:target="\_blank"}.
+See some of our [projects](projects), [publications](publications), and [software](http://github.com/morph-2013){:target="\_blank"}.
 
 <br>
 
@@ -23,8 +21,6 @@ See some of our [projects](projects), [publications](publications), and [softwar
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
         <!-- <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li> -->
     </ol>
@@ -35,16 +31,10 @@ See some of our [projects](projects), [publications](publications), and [softwar
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ricepilaf.png" alt="RicePilaf - Lift-Over" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CRNT-ladies.png" alt="The Father and Ladies of MoRPH" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/phipred.png" alt="Phage-Host Interaction - Methodology" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ricepilaf2.PNG" alt="RicePilaf - Module Graph" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/crabs_DEG.png" alt="Crabs - DEG" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/morph-ksmb-smb.png" alt="2024 KSMB_SMB" />
         </div>
     </div>
 
@@ -60,31 +50,17 @@ See some of our [projects](projects), [publications](publications), and [softwar
 
 <br>
 
-### Our Collaborators
+### Institutional Partners
 
-Given the interdisciplinary nature of our research, we collaborate with several research groups, including:
+-   Department of Mathematics and Statistics, De La Salle University
+-   Department of Mathetics, Batangas State University
+-   Institute of Mathematics, University of the Philippines Diliman
+-   Institute of Mathematical and Physical Sciences, University of the Philippines Los Baños
+-   Systems and Computational Biology Unit, CENSER, De La Salle University
 
--   Practical Genomics Lab, Center for Natural Sciences and Environmental Research, De La Salle University (CENSER, DLSU)
--   Systems and Computational Biology Unit, CENSER, DLSU
--   Translational Medicine Unit, CENSER, DLSU
--   Department of Computational Biology and Medical Sciences, the University of Tokyo
--   International Rice Research Institute (IRRI)
--   National Institutes of Health, University of the Philippines Manila (NIH, UP Manila)
--   Southeast Asian Fisheries Development Center (SEAFDEC)
-
-<br>
-
-### Our Funders
-
-Our present and past projects have been funded by:
-
--   Department of Science and Technology - Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development (DOST-PCAARRD)
--   Department of Science and Technology - Philippine Council for Health Research and Development (DOST-PCHRD)
--   East Asia Science and Innovation Area Joint Research Program (e-Asia JRP)
--   De La Salle University Research Grants and Management Office (DLSU RGMO)
 
 <br>
 
 ### Join Us
 
-We are always looking for energetic, driven, and curious students to [join us](join_us).
+We are always looking for energetic, driven, and curious students and mathematicians to [join us](join_us).
