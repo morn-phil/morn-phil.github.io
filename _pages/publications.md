@@ -59,8 +59,8 @@ permalink: /publications/
 {% for publi in group.items %}
 
 <div class="row flex">
-<div class="col-auto flex pub-pic">
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="pub-img" />
+<div class="col-sm-1 flex pub-pic">
+
 </div>
 <div class="col-sm-10 flex pub-text">
 {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a> {% else %}{{ publi.title }}{% endif %}
