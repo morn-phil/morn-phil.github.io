@@ -8,13 +8,92 @@
 #  highlight: 1
 #  year: 2022
 
-- title: "RicePilaf: a post-GWAS/QTL dashboard to integrate pangenomic, co-expression, regulatory, epigenomic, ontology, pathway, and text-mining information to provide functional insights into rice QTLs and GWAS loci"
-  image: rice_pilaf.png
+- title: "Chemical reaction network approaches to Biochemical Systems Theory"
+  image: 
   description:
-  authors: Anish M.S. Shrestha, Mark Edward M. Gonzales, Phoebe Clare L. Ong, Pierre Larmande, Hyun-Sook Lee, Ji-Ung Jeung, Ajay Kohli, Dmytro Chebotarov, Ramil P. Mauleon, Jae-Sung Lee, Kenneth L. McNally
+  authors: Carlene Perpetua P. Arceo, Editha C. Jose, Alberto Marin-Sanguino, and Eduardo R. Mendoza
   link:
-      url: https://doi.org/10.1093/gigascience/giae013
-      display: GigaScience 13, giae013
+      url: https://10.1016/j.mbs.2015.08.022
+      display: Mathematical biosciences, 269, 135-152
   highlight: 0
-  year: 2024
+  year: 2015
 
+- title: "Reaction networks and kinetics of biochemical systems"
+  image: 
+  description:
+  authors: Carlene Perpetua P. Arceo, Editha C. Jose, Angelyn R. Lao, and Eduardo R. Mendoza
+  link:
+      url: https://doi.org/10.1016/j.mbs.2016.10.004
+      display: Mathematical biosciences, 283, 13-29
+  highlight: 0
+  year: 2017
+
+- title: "Positive equilibria of weakly reversible power law kinetic systems with linear independent interactions"
+  image: 
+  description:
+  authors: Eduardo R. Mendoza, Dylan Antonio SJ Talabis, and Editha C. Jose
+  link:
+      url: https://doi.org/10.1007/s10910-018-0909-2
+      display: Journal of Mathematical Chemistry, 56, 2643-2673
+  highlight: 0
+  year: 2018
+
+- title: "Positive equilibria of a class of power-law kinetics"
+  image: 
+  description:
+  authors: Dylan Antonio SJ Talabis, Carlene Perpetua P. Arceo, and Eduardo R. Mendoza
+  link:
+      url: https://link.springer.com/article/10.1007/s10910-017-0804-2
+      display: Journal of Mathematical Chemistry, 56, 358-394
+  highlight: 0
+  year: 2018
+
+- title: "A computational approach to linear conjugacy in a class of power law kinetic systems"
+  image: 
+  description:
+  authors: Mark Jayson Cortez, Allen Nazareno, and Eduardo Mendoza
+  link:
+      url: https://doi.org/10.1007/s10910-017-0796-y
+      display: Journal of Mathematical Chemistry, 56, 336-357
+  highlight: 0
+  year: 2018
+
+- title: "Reactant subspaces and kinetics of chemical reaction networks"
+  image: 
+  description:
+  authors: Carlene Perpetua P. Arceo, Editha C. Jose, Angelyn R. Lao, and Eduardo R. Mendoza
+  link:
+      url: https://doi.org/10.1007/s10910-017-0809-x
+      display: Journal of Mathematical Chemistry, 56, 395-422
+  highlight: 0
+  year: 2018
+
+- title: "A deficiency-one algorithm for power-law kinetic systems with reactant-determined interactions"
+  image: 
+  description:
+  authors: Noel T. Fortun, Eduardo R. Mendoza, Luis F. Razon, and Angelyn R. Lao
+  link:
+      url: https://doi.org/10.1007/s10910-018-0925-2
+      display: Journal of Mathematical Chemistry, 56, 2929-2962
+  highlight: 0
+  year: 2018
+
+- title: "Structural stability analysis of models of dopamine synthesis and d1 receptor trafficking in RPT Cells using CRNT"
+  image: 
+  description:
+  authors: John Justine S. Villar, Patrick Vincent N. Lubenia, Eduardo R. Mendoza, and Carlene PC Pilar-Arceo
+  link:
+      url: https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol148no3/structural_stability_analysis_of_models_of_dopamine_synthesis_.pdf
+      display: Philippine Journal of Science, 148(3), 523-533
+  highlight: 0
+  year: 2019
+
+- title: "Linear conjugacy of chemical kinetic systems"
+  image: 
+  description:
+  authors: Allen L. Nazareno, Raymond Paul L. Eclarin, Eduardo R. Mendoza, and Angelyn R. Lao
+  link:
+      url: https://www.aimspress.com/article/10.3934/mbe.2019421/pdf
+      display: Mathematical Biosciences and Engineering, 16(6), 8322-8355.
+  highlight: 0
+  year: 2019
