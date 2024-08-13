@@ -3,97 +3,98 @@
   info: Center for Natural Sciences and Environmental Research, De La Salle University
   email: eduardo.mendoza@dlsu.edu.ph
   number_educ: 1
-  education1: Bonn University
+  education1: Founder
   education3:
   education4:
   education5:
-
-- name: Luis Razon
-  photo: plasmids.png
-  info: Department of Chemical Engineering, De La Salle University
-  email: luis.razon@dlsu.edu.ph
-  number_educ: 0
-  education1:
 
 - name: Carlene Perpetua Arceo
   photo: plasmids.png
   info: Institute of Mathematics, University of the Philippines Diliman
   email: cayen@math.upd.edu.ph
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: 2015
   
 - name: Editha Jose 
   photo: plasmids.png
   info: Department of Mathematical and Physical Sciences, University of the Philippines Los Baños
   email: ecjose1@up.edu.ph
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: 2015
   
 - name: <a href="https://scholar.google.com.ph/citations?user=pwzgQTwAAAAJ&hl=en">Angelyn Lao</a>
   photo: angie.jpg
   info: Department of Mathematics and Statistics, De La Salle University
   email: angelyn.lao@dlsu.edu.ph
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: 2017
 
-- name: Ederlina Nocon
-  photo: plasmids.png
-  info: Department of Mathematics and Statistics, De La Salle University
-  email: ederlina.nocon@dlsu.edu.ph
-  number_educ: 0
-  education1:
- 
 - name: Dylan Antonio Talabis
   photo: plasmids.png
   info: Department of Mathematical and Physical Sciences, University of the Philippines Los Baños
   email: dstalabis1@up.edu.ph
-  number_educ: 0
-  education:
+  number_educ: 1
+  education: 2018
   
-- name: Aurelio de los Reyes V
+- name: Luis Razon
   photo: plasmids.png
-  info: Institute of Mathematics, University of the Philippines Diliman
-  email: adlreyes@math.upd.edu.ph
-  number_educ: 0
-  education1:
+  info: Department of Chemical Engineering, De La Salle University
+  email: luis.razon@dlsu.edu.ph
+  number_educ: 1
+  education1: 2018
   
 - name: Noel Fortun
   photo: plasmids.png
   info: Department of Mathematics and Statistics, De La Salle University
   email: noel.fortun@dlsu.edu.ph
-  number_educ: 0
-  education:
+  number_educ: 1
+  education: 2018
+  
+- name: Aurelio de los Reyes V
+  photo: plasmids.png
+  info: Institute of Mathematics, University of the Philippines Diliman
+  email: adlreyes@math.upd.edu.ph
+  number_educ: 1
+  education1: 2020
 
 - name: Bryan Hernandez
   photo: plasmids.png
   info: Institute of Mathematics, University of the Philippines Diliman
   email: bshernandez@up.edu.ph
-  number_educ: 0
-  education:
+  number_educ: 1
+  education: 2020
+
+- name: Ederlina Nocon
+  photo: plasmids.png
+  info: Department of Mathematics and Statistics, De La Salle University
+  email: ederlina.nocon@dlsu.edu.ph
+  number_educ: 1
+  education1: 2020
+ 
 - name: Daryl Magpantay
   photo: plasmids.png
   info:  Department of Mathematics, Batangas State University
   email: daryl.magpantay@g.batstate.u.edu.ph
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: 2020 
   
 - name: Karen Nocum
   photo: plasmids.png
   info: Department of Mathematics, Batangas State University
   email: karen.nocum@g.batstate.u.edu.ph
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: 2020
   
 - name: Lauro Fontanil
   photo: plasmids.png
   info: Department of Mathematical and Physical Sciences, University of the Philippines Los Baños
   email: llfontanil@up.edu.ph
-  number_educ: 0
-  education:
+  number_educ: 1
+  education: 2021
 
 - name: Jonjie M. Catibog
   photo: plasmids.png
   info: Department of Mathematics, Batangas State University
   email: jonjie.catibog@g.batstate.u.edu.ph
   number_educ: 0
-  education:
+  education: 
