@@ -90,9 +90,17 @@
   info: Department of Mathematical and Physical Sciences, University of the Philippines Los Baños
   email: llfontanil@up.edu.ph
   number_educ: 0
-  education1:
+  education:
   
-# - name: 
+ - name: Jonjie M. Catibog
+  photo: plasmids.png
+  info: Department of Mathematics, Batangas State University
+  email: jonjie.catibog@g.batstate-u.edu.ph
+  number_educ: 0
+  education:
+
+
+# - name: Jonjie M. Catibog <jonjie.catibog@g.batstate-u.edu.ph>,
 #  photo: plasmids.png
 #  info: Professor, 
 #  email: 
