@@ -168,3 +168,102 @@
   highlight: 0
   year: 2020
 
+- title: "Absolutely Complex Balanced Kinetic Systems"
+  image: 
+  description:
+  authors: Editha C. Jose, Dylan Antonio SJ Talabis, and Eduardo R. Mendoza
+  link:
+      url: https://match.pmf.kg.ac.rs/electronic_versions/Match88/n2/match88n2_397-436.pdf
+      display: Match-Communications in Mathematical and in Computer Chemistry, 88(2), 397-436
+  highlight: 0
+  year: 2022
+
+- title: "Concentration Robustness in LP Kinetic Systems"
+  image: 
+  description:
+  authors: Angelyn R. Lao, Patrick Vincent N. Lubeni, Daryl M. Magpantay, and Eduardo R. Mendoza
+  link:
+      url: https://doi.org/10.46793/match.88-1.029L
+      display: Match-Communications in Mathematical and in Computer Chemistry, 88(1), 29-66
+  highlight: 0
+  year: 2022
+
+- title: "Weakly reversible CF-decompositions of chemical kinetic systems"
+  image: 
+  description:
+  authors: Bryan S. Hernandez, and Eduardo R. Mendoza
+  link:
+      url: https://doi.org/10.1007/s10910-022-01332-z
+      display: Journal of Mathematical Chemistry, 60(5), 799-829.
+  highlight: 0
+  year: 2022
+
+- title: "Reaction network analysis of metabolic insulin signaling"
+  image: 
+  description:
+  authors: Patrick Vincent N. Lubenia, Eduardo R. Mendoza, and Angelyn R. Lao
+  link:
+      url: https://doi.org/10.1007/s11538-022-01087-3
+      display: Bulletin of Mathematical Biology, 84(11), 129
+  highlight: 0
+  year: 2022
+
+- title: "Complex Balanced Equilibria of Weakly Reversible Poly-Pl Systems: Existence, Stability, and Robustness"
+  image: 
+  description:
+  authors: Editha C. Jose, Eduardo R. Mendoza, and Dylan Antonio SJ Talabis
+  link:
+      url: https://doi.org/10.46793/match.89-1.107J
+      display: Match-Communications in Mathematical and in Computer Chemistry, 89(1), 107-142
+  highlight: 0
+  year: 2023
+
+- title: "Comparative analysis of carbon cycle models via kinetic representations"
+  image: 
+  description:
+  authors: Noel T. Fortun and Eduardo R. Mendoza
+  link:
+      url: https://doi.org/10.1007/s10910-022-01442-8
+      display: Journal of Mathematical Chemistry, 61(5), 896-932.
+  highlight: 0
+  year: 2023
+ 
+- title: "Positive equilibria of power law kinetics on networks with independent linkage classes"
+  image: Bryan S. Hernandez, and Eduardo R. Mendoza
+  description:
+  authors: 
+  link:
+      url: https://doi.org/10.1007/s10910-022-01432-w
+      display: Journal of Mathematical Chemistry, 61(3), 630-651
+  highlight: 0
+  year: 2023
+
+- title: "Absolute Concentration Robustness in Rank-One Kinetic Systems"
+  image: 
+  description:
+  authors: Eduardo R.  Mendoza, Dylan Antonio SJ Talabis, Editha C. Jose, and Lauro L. Fontanil
+  link:
+      url: https://doi.org/10.46793/match.91-2.453M
+      display: Match-Communications in Mathematical and in Computer Chemistry, 91(2), 453-483
+  highlight: 0
+  year: 2024
+
+- title: "Comparative analysis of kinetic realizations of insulin signaling"
+  image: 
+  description:
+  authors: Patrick Vincent N. Lubenia, Eduardo R. Mendoza, and Angelyn R. Lao
+  link:
+      url: https://doi.org/10.1016/j.jtbi.2023.111672
+      display: Journal of Theoretical Biology, 577, 111672
+  highlight: 0
+  year: 2024
+
+- title: "Embedding-Based Comparison of Reaction Networks of Wnt Signaling"
+  image: 
+  description:
+  authors: Bryan S. Hernandez, Patrick Vincent N. Lubenia, and Eduardo R. Mendoza
+  link:
+      url: https://doi.org/10.46793/match.93-1.223H
+      display: Match-Communications in Mathematical and in Computer Chemistry, 93(1), 223-245
+  highlight: 0
+  year: 2025
