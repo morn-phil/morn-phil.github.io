@@ -168,6 +168,36 @@
   highlight: 0
   year: 2020
 
+- title: "Chemical reaction network decompositions and realizations of S-systems"
+  image: 
+  description:
+  authors: Honeylou F. Farinas, Eduardo R. Mendoza, and Angelyn R. Lao
+  link:
+      url: https://scienggj.org/2021/PSL%202021-vol14-no01-p147-157-Farinas%20et%20al.pdf
+      display: SciEnggJ, 14(1), 147-157
+  highlight: 0
+  year: 2021
+
+- title: "Positive equilibria of Hill-type kinetic systems"
+  image: 
+  description:
+  authors: Bryan S. Hernandez, and Eduardo R. Mendoza
+  link:
+      url: https://doi.org/10.1007/s10910-021-01230-w
+      display: Journal of Mathematical Chemistry, 59(3), 840-870
+  highlight: 0
+  year: 2021
+
+- title: "Absolute Concentration Robustness in Power Law Kinetic Systems"
+  image: 
+  description:
+  authors: Noel T. Fortun and Eduardo R. Mendoza
+  link:
+      url: https://match.pmf.kg.ac.rs/electronic_versions/Match85/n3/match85n3_669-691.pdf
+      display: Match-Communications in Mathematical and in Computer Chemistry, 85(3), 669-691
+  highlight: 0
+  year: 2021
+  
 - title: "Absolutely Complex Balanced Kinetic Systems"
   image: 
   description:
@@ -229,9 +259,9 @@
   year: 2023
  
 - title: "Positive equilibria of power law kinetics on networks with independent linkage classes"
-  image: Bryan S. Hernandez, and Eduardo R. Mendoza
+  image: 
   description:
-  authors: 
+  authors: Bryan S. Hernandez and Eduardo R. Mendoza
   link:
       url: https://doi.org/10.1007/s10910-022-01432-w
       display: Journal of Mathematical Chemistry, 61(3), 630-651
