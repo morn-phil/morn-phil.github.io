@@ -8,6 +8,13 @@
   education4:
   education5:
 
+- name: Luis Razon
+  photo: angie.jpg
+  info: Professor, Department of Chemical Engineering, De La Salle University
+  email: luis.razon@dlsu.edu.ph
+  number_educ: 0
+  education1:
+  
 - name: <a href="https://scholar.google.com.ph/citations?user=pwzgQTwAAAAJ&hl=en">Angelyn Lao</a>
   photo: angie.jpg
   info: Professor, Department of Mathematics and Statistics, De La Salle University
