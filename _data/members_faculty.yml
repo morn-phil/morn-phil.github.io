@@ -41,14 +41,14 @@
   info: Department of Mathematics and Statistics, De La Salle University
   email: noel.fortun@dlsu.edu.ph
   number_educ: 1
-  education: 2018
+  education1: 2018
 
 - name: Dylan Antonio Talabis
   photo: plasmids.png
   info: Institute of Mathematical and Physical Sciences, University of the Philippines Los Baños
   email: dstalabis1@up.edu.ph
   number_educ: 1
-  education: 2018
+  education1: 2018
   
 - name: Ederlina Nocon
   photo: plasmids.png
@@ -69,7 +69,7 @@
   info: Institute of Mathematics, University of the Philippines Diliman
   email: bshernandez@up.edu.ph
   number_educ: 1
-  education: 2020
+  education1: 2020
  
 - name: Daryl Magpantay
   photo: plasmids.png
@@ -90,11 +90,11 @@
   info: Institute of Mathematical and Physical Sciences, University of the Philippines Los Baños
   email: llfontanil@up.edu.ph
   number_educ: 1
-  education: 2021
+  education1: 2021
 
 - name: Jonjie M. Catibog
   photo: plasmids.png
   info: Department of Mathematics, Batangas State University
   email: jonjie.catibog@g.batstate.u.edu.ph
   number_educ: 1
-  education: 2024
+  education1: 2024
