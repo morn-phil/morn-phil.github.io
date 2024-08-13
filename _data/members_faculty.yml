@@ -70,24 +70,3 @@
   email: bshernandez@up.edu.ph
   number_educ: 0
   education:
-
-- name: Daryl Magpantay
-  photo: plasmids.png
-  info:  Department of Mathematics, Batangas State University
-  email: daryl.magpantay@g.batstate-u.edu.ph
-  number_educ: 0
-  education1:
-  
-- name: Karen Nocum
-  photo: plasmids.png
-  info: Department of Mathematics, Batangas State University
-  email: karen.nocum@g.batstate-u.edu.ph
-  number_educ: 0
-  education1:
-  
-- name: Lauro Fontanil
-  photo: plasmids.png
-  info: Department of Mathematical and Physical Sciences, University of the Philippines Los Baños
-  email: llfontanil@up.edu.ph
-  number_educ: 0
-  education:
