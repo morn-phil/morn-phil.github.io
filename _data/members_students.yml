@@ -7,9 +7,31 @@
 #  education2:
 #  education3:
 #  education4:
-- name: Paul K. Yu
+- name: Shaiera Ann Aquino
   photo: plasmids.png
-  info: MS Math
-  email: a@b.c
+  info: MS Mathematics, Batangas State University
+  email: 22-50903@g.batstate-u.edu.ph
   number_educ: 0
   education1:
+
+- name: Mariane Eliz Pelagio
+  photo: plasmids.png
+  info: MS Mathematics, Batangas State University
+  email: 22-57235@g.batstate-u.edu.ph
+  number_educ: 0
+  education1:
+  
+- name: John Laurence Candido
+  photo: plasmids.png
+  info: MS Mathematics, 
+  email: 22-59992@g.batstate-u.edu.ph
+  number_educ: 0
+  education1:
+  
+- name: Crystal Jade Aguilar
+  photo: plasmids.png
+  info: MS Mathematics, 
+  email: 22-56863@g.batstate-u.edu.ph
+  number_educ: 0
+  education1:
+
