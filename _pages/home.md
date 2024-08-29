@@ -8,11 +8,11 @@ permalink: /
 
 ### About MoRPH
 
-The **Mathematics of Reaction Networks Philippines (MoRPH)** brings together faculty members and students interested in .
+The **Mathematics of Reaction Networks Philippines (MoRPH)** brings together faculty members and students interested in the mathematics of reaction network theory.
 
 
 
-See some of our [projects](projects), [publications](publications), and [software](http://github.com/morph-2013){:target="\_blank"}.
+See some of our [publications](publications), and [software](http://github.com/morn-phil){:target="\_blank"}.
 
 <br>
 
@@ -59,8 +59,3 @@ See some of our [projects](projects), [publications](publications), and [softwar
 -   [Systems and Computational Biology](https://dlsu-scomb.github.io/){:target="\_blank"}, CENSER, De La Salle University
 
 
-<br>
-
-### Join Us
-
-We are always looking for energetic, driven, and curious students and mathematicians to [join us](join_us).
