@@ -445,3 +445,21 @@
       url: https://doi.org/10.1007/s10910-023-01505-4
       display: Journal of Mathematical Chemistry, 61, 2105–2122
   year: 2023
+
+- title: "Derivation of Steady State Parametrizations of Chemical Reaction Networks with n Independent and Identical Subnetworks"
+  image: 
+  description:
+  authors: Bryan S. Hernandez and Patrick Vincent N. Lubenia
+  link:
+      url: https://doi.org/10.46793/match.91-2.337V
+      display: MATCH Communications in Mathematical and Computer Chemistry, 91(2), 337–365
+  year: 2024
+
+- title: "A Decomposition-Based Approach for Deriving Positive Steady States of a Class of Chemical Reaction Networks with Non-Mass-Action Kinetics"
+  image: 
+  description:
+  authors: Bryan S. Hernandez and Patrick Vincent N. Lubenia
+  link:
+      url: https://doi.org/10.46793/match.92-2.483H
+      display: MATCH Communications in Mathematical and Computer Chemistry 92(2), 483-515
+  year: 2024
