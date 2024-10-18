@@ -419,3 +419,29 @@
   highlight: 0
   year: 2021
   
+- title: "A Framework for Deriving Analytic Steady States of Biochemical Reaction Networks"
+  image: 
+  description:
+  authors: Bryan S. Hernandez, Patrick Vincent N. Lubenia, Matthew D. Johnston, and Jae Kyoung Kim
+  link:
+      url: https://doi.org/10.1371/journal.pcbi.1011039
+      display: PLoS Computational Biology, 19(4), e1011039
+  year: 2023
+
+- title: "S-invariant Termwise Addition of Reactions Via Reaction Vector Multiples (STAR-RVM) Transformation"
+  image: 
+  description:
+  authors: Daryl M. Magpantay
+  link:
+      url: https://doi.org/10.29020/nybg.ejpam.v16i4.4859
+      display: European Journal of Pure and Applied Mathematics, 10(4)
+  year: 2023
+
+- title: "A Network-based Parametrization of Positive Steady States of Power-law Kinetic Systems"
+  image: 
+  description:
+  authors: Bryan S. Hernandez and Kaitlyn Deen E. Buendicho
+  link:
+      url: https://doi.org/10.1007/s10910-023-01505-4
+      display: Journal of Mathematical Chemistry, 61, 2105–2122
+  year: 2023
