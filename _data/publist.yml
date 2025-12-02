@@ -490,3 +490,21 @@
       url: https://arxiv.org/pdf/2310.18931
       display: Accepted for Publication at the Journal of Mathematical Chemistry
   year: 2024
+
+- title: "Parameter-Minimal Analysis of Carbon Dioxide Removal through Direct Air Capture"
+  image: 
+  description:
+  authors: Noel T. Fortun, Angelyn R. Lao, Eduardo R. Mendoza, and Luis F. Razon
+  link:
+      url: https://match.pmf.kg.ac.rs/issues/m95n3/m95n3_09325.html
+      display: MATCH Communication in Mathematical and Computer Chemistry, 95 (3), 695-729
+  year: 2026
+
+  - title: "A Reaction Network Approach to Modeling Carbon Dioxide Removal Systems"
+  image: 
+  description:
+  authors: Noel Fortun, Piolo Gaspar, Editha Jose, Angelyn Lao, Eduardo Mendoza, and Luis Razon
+  link:
+      url: 
+      display: Accepted for Publication at the Process Integration and Optimization for Sustainability
+  year: 2026
