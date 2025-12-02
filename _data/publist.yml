@@ -497,14 +497,14 @@
   authors: Noel T. Fortun, Angelyn R. Lao, Eduardo R. Mendoza, and Luis F. Razon
   link:
       url: https://match.pmf.kg.ac.rs/issues/m95n3/m95n3_09325.html
-      display: MATCH Communication in Mathematical and Computer Chemistry, 95 (3), 695-729
+      display: MATCH Communication in Mathematical and Computer Chemistry, 95(3), 695-729
   year: 2026
 
-  - title: "A Reaction Network Approach to Modeling Carbon Dioxide Removal Systems"
-  image: 
-  description:
-  authors: Noel Fortun, Piolo Gaspar, Editha Jose, Angelyn Lao, Eduardo Mendoza, and Luis Razon
-  link:
-      url: https://match.pmf.kg.ac.rs/issues/m95n3/m95n3_09325.html
-      display: Accepted for Publication at the Process Integration and Optimization for Sustainability
-  year: 2026
+ # - title: "A Reaction Network Approach to Modeling Carbon Dioxide Removal Systems"
+ # image: 
+ # description:
+ # authors: Noel Fortun, Piolo Gaspar, Editha Jose, Angelyn Lao, Eduardo Mendoza, and Luis Razon
+ # link:
+ #     url: https://match.pmf.kg.ac.rs/issues/m95n3/m95n3_09325.html
+ #     display: Accepted for Publication at the Process Integration and Optimization for Sustainability
+ # year: 2026
