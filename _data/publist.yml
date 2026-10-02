@@ -526,3 +526,12 @@
       url: https://www.oaepublish.com/articles/cf.2026.70
       display: Carbon Footprints, 5(53), 10.20517/cf.2026.70
   year: 2026
+
+  - title: "CRITERIA: A network decomposition and elementary flux mode translation-based tool for computing equilibria of biochemical systems"
+  image: 
+  description:
+  authors: Exequiel Jun V. Villejo, Aurelio A. de los Reyes V, Bryan S. Hernandez
+  link:
+      url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014633
+      display: PLOS Computational Biology https://doi.org/10.1371/journal.pcbi.1014633
+  year: 2026
